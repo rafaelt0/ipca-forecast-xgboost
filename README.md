@@ -1,6 +1,6 @@
 # Previsão do IPCA com XGBoost
 
-Este repositório apresenta um projeto de previsão do IPCA (Índice de Preços ao Consumidor Amplo) utilizando técnicas de Machine Learning, com foco no algoritmo XGBoost. O objetivo é avaliar a capacidade do modelo em capturar a dinâmica inflacionária brasileira a partir de variáveis macroeconômicas obtidas do FRED (Federal Reserve Economic Data) e de fontes nacionais.
+Este repositório apresenta um projeto de previsão do IPCA (Índice de Preços ao Consumidor Amplo) utilizando técnicas de Machine Learning, com foco no algoritmo XGBoost. O objetivo é avaliar a capacidade do modelo em capturar a dinâmica inflacionária brasileira a partir de variáveis macroeconômicas obtidas do Sistema Gerenciador de Séries Temporais e do FRED (Federal Reserve Economic Data).
 
 ---
 
