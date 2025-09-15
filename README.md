@@ -63,6 +63,3 @@ Rafael Eiki Teruya - Estudante de Economia FEA-USP
 
 ---
 
- 
-- [ ] Desenvolver dashboard interativo em Power BI ou Streamlit.  
-
