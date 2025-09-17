@@ -37,26 +37,6 @@ Este repositório apresenta um projeto de previsão do IPCA (Índice de Preços 
    - Métricas: RMSE, MAE, MAPE e R².  
    - Gráficos de previsão vs valores reais.  
 
----
-
-## Resultados Principais
-- RMSE: ~0.23  
-- MAE: ~0.16  
-- R²: ~0.71  
-
-Os resultados mostram que o modelo consegue explicar aproximadamente 70% da variância do IPCA fora da amostra. O desempenho é satisfatório para capturar ciclos de alta e baixa da inflação, embora apresente limitações em choques inesperados, como crises externas e políticas fiscais abruptas.
-
----
-
-## Conclusões
-- O XGBoost demonstrou boa aderência para previsão do IPCA no curto prazo.  
-- Variáveis como hiato do produto, câmbio, commodities e taxa Selic tiveram importância significativa.  
-- Recomenda-se para etapas futuras:  
-  - Testar modelos híbridos (ARIMAX + XGBoost, LSTM, Prophet).  
-  - Expandir a base de dados com indicadores externos (ex.: VIX, juros americanos).  
-  - Implementar validação walk-forward mais rigorosa.  
-
----
 
 ## Autor
 Rafael Eiki Teruya - Estudante de Economia FEA-USP
